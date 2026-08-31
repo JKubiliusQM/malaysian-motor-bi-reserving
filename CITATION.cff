@@ -1,0 +1,27 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite it using the metadata below."
+title: "Malaysian Motor BI Reserving: Dissertation Analysis Code"
+type: software
+authors:
+  - family-names: "Kubilius"
+    given-names: "Jason"
+    affiliation: "Queen Mary University of London"
+version: "1.0.0"
+date-released: "2026-08-31"
+license: "MIT"
+abstract: >-
+  Code supporting the MSc dissertation "Projecting Malaysian Motor BI Excess
+  Claims: Chain Ladder Benchmarks and an Integrated Claim-Level Machine
+  Learning Framework". The repository contains the data-processing,
+  Random Forest, XGBoost, historical back-testing, pure IBNR and out-of-time
+  validation workflows used in the dissertation. The underlying Malaysian
+  Motor claims data are confidential and are not included.
+keywords:
+  - actuarial science
+  - claims reserving
+  - machine learning
+  - Random Forest
+  - XGBoost
+  - Chain Ladder
+  - bodily injury
+  - insurance
